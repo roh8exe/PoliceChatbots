@@ -1,0 +1,498 @@
+case_description,label
+My house was broken into and valuable electronics were stolen.,theft
+Jewelry and cash were taken from my house while we were on vacation.,theft
+My phone was stolen from my bag while I was on the train.,theft
+Several items were missing after my apartment was burglarized.,theft
+My laptop was stolen while I was working at a coffee shop.,theft
+Someone broke into my car and took my stereo.,theft
+Cash was taken from my wallet at the office.,theft
+I returned home to find my back door broken and my TV missing.,theft
+Several valuable items were stolen from my store during the night.,theft
+A person snatched my purse while I was walking home.,theft
+Someone stole my passport from my bag at the airport.,theft
+My wallet is stolen.,theft
+Someone was seen shoplifting items from a grocery store, theft
+A person was caught trying to steal electronics from a retail store, theft
+A man was arrested for attempting to steal a bicycle parked outside, theft
+Authorities found several stolen goods in a suspect's apartment, theft
+An individual was charged with stealing items from a local convenience store, theft
+A teenager was caught trying to steal from a school locker, theft
+Someone was apprehended for pickpocketing in a crowded market, theft
+A group was charged for organized retail theft at a shopping mall, theft
+Several people were arrested during a sting operation targeting theft, theft
+Police are urging citizens to be vigilant against theft during the holiday season, theft
+Someone was found shoplifting food items from a grocery store, theft
+An individual was caught trying to steal clothing from a mall, theft
+Authorities apprehended someone for attempting to steal tools from a hardware store, theft
+A person was charged with theft after being caught with stolen merchandise in their backpack, theft
+Several people were arrested for participating in organized retail theft, theft
+A man was observed concealing items in his clothing at a supermarket, theft
+A vehicle was stolen from the driveway while the owner was inside the house, theft
+Authorities discovered a network of individuals involved in stealing from multiple stores, theft
+A local business reported an increase in theft incidents prompting security upgrades, theft
+The vehicle was taken from a public parking lot during the late evening hours, theft
+The car was reported stolen after the owner left it unattended for a short period, theft
+Theft occurred in a residential neighborhood, theft
+Witness reported seeing a person wearing a dark hoodie near the vehicle before it was stolen, theft
+,
+I was punched in the face by a stranger on the street.,assault
+A man hit me with a bottle during an argument at the bar.,assault
+Someone attacked me with a knife and ran away.,assault
+I was physically assaulted by my coworker during a meeting.,assault
+A person hit me with a bat outside the stadium.,assault
+I was slapped in the face during a dispute.,assault
+Someone kicked me during a heated argument.,assault
+I was attacked by a group of people after the concert.,assault
+A stranger grabbed me forcefully in the park.,assault
+I was shoved to the ground during a protest.,assault
+A person punched me during a road rage incident.,assault
+,
+A person tried to sell me drugs outside the nightclub.,drug offense
+I was arrested for possession of a small amount of marijuana.,drug offense
+Someone offered me illegal substances at the party.,drug offense
+A man was caught dealing drugs in front of my apartment.,drug offense
+I witnessed a drug transaction near the school.,drug offense
+Police found illegal drugs in my friend's car.,drug offense
+A person was arrested for selling drugs at the concert.,drug offense
+My neighbor was caught growing marijuana in their backyard.,drug offense
+Several people were arrested for drug trafficking at the airport.,drug offense
+I saw someone using drugs in the restroom of the club.,drug offense
+A package of illegal drugs was intercepted at the post office.,drug offense
+,
+I was defrauded by someone selling fake concert tickets online.,fraud
+A person used my credit card information to make unauthorized purchases.,fraud
+Someone tried to scam me by pretending to be from the IRS.,fraud
+My identity was stolen and used to open new credit accounts.,fraud
+I was a victim of a phishing scam and lost money from my bank account.,fraud
+Someone sold me counterfeit goods online.,fraud
+I was tricked into giving away my personal information in a fake job offer.,fraud
+A scammer pretended to be a charity and stole my donation.,fraud
+Someone forged my signature on a legal document.,fraud
+I was cheated out of money in an online investment scheme.,fraud
+I was scammed into paying a fake utility bill.,fraud
+,
+My home computer was hacked and sensitive information was stolen.,cybercrime
+Someone stole my personal photos and posted them online without my consent.,cybercrime
+I was blackmailed online after my social media account was hacked.,cybercrime
+A person threatened to release my private information unless I paid them.,cybercrime
+I was a victim of a ransomware attack on my computer.,cybercrime
+Someone used my personal details to create fake accounts online.,cybercrime
+My email was hacked and used to send spam.,cybercrime
+A cybercriminal stole my credit card details through a phishing attack.,cybercrime
+Someone impersonated me on a social network and contacted my friends.,cybercrime
+I received threatening messages from a stranger online.,cybercrime
+My MMS got leaked and main suspect is my ex boyfriend., cybercrime
+The perpetrator distributed explicit content involving the victim through MMS without consent., cybercrime
+Private photos and personal data were shared without consent., cybercrime
+,
+My car was stolen from the parking lot last night.,vehicle theft
+Someone broke into my truck and took all my tools.,vehicle theft
+My motorcycle was stolen from outside my apartment.,vehicle theft
+Someone tried to hotwire my car but failed.,vehicle theft
+A person stole my friend's car while we were at a party.,vehicle theft
+My rental car was stolen from the hotel parking lot.,vehicle theft
+A car thief broke the window and stole my vehicle.,vehicle theft
+Someone took my car without my permission.,vehicle theft
+I found my car's ignition damaged as someone attempted to steal it.,vehicle theft
+My car was stolen from the parking lot outside the mall, vehicle theft
+Someone broke into my garage and stole my motorcycle, vehicle theft
+A car was reported stolen from outside the restaurant, vehicle theft
+He stole a parked car and fled the scene, vehicle theft
+A group was caught stealing cars from the parking lot, vehicle theft
+A man was seen driving a stolen vehicle down the street, vehicle theft
+A neighbor reported seeing suspicious activity near parked cars, vehicle theft
+A vehicle theft ring was busted by the police last week, vehicle theft
+Authorities are investigating a spike in car thefts in the area, vehicle theft
+,
+My neighbor's dog attacked me in the park.,animal attack
+A stray dog bit me while I was jogging.,animal attack
+I was scratched by a stray cat in my yard.,animal attack
+Someone's aggressive dog chased and bit my child.,animal attack
+A wild animal attacked me during my hike in the woods.,animal attack
+I was bitten by a snake while camping.,animal attack
+An unleashed dog bit me as I was walking past the owner's house.,animal attack
+A dog bit my leg while I was delivering a package.,animal attack
+I was attacked by a dog at a friend's house.,animal attack
+An aggressive bird attacked me in my backyard.,animal attack
+,
+Someone set fire to my house.,arson
+A person was caught setting fire to a building in the neighborhood.,arson
+My car was deliberately set on fire while parked outside my home.,arson
+The store across the street was set on fire by an arsonist.,arson
+A group of people were seen setting fire to a park bench.,arson
+My shed was burned down in an intentional fire.,arson
+Someone started a fire in the dumpster behind my office.,arson
+My neighbor's garage was set on fire.,arson
+An abandoned building nearby was set on fire by unknown individuals.,arson
+A man was caught trying to start a fire in the forest.,arson
+,
+"She spread false rumors online, damaging my reputation.",defamation
+"I was defamed in a social media post, which caused harm to my career.",defamation
+Someone published an article containing false statements about me.,defamation
+He posted fake reviews about my business to ruin its image.,defamation
+"She is spreading lies about my personal life, tarnishing my name.",defamation
+A video was uploaded falsely accusing me of illegal activities.,defamation
+My reputation was damaged after false statements were broadcasted.,defamation
+"Someone accused me of crimes I didn’t commit, which affected my business.",defamation
+A person claimed I engaged in fraudulent behavior on social media.,defamation
+He published false claims about my character in a local newspaper.,defamation
+,
+"People are rioting in the streets, causing chaos and destroying property.",riot
+A group of protestors turned violent and started attacking buildings.,riot
+Several shops were looted during a riot in the city.,riot
+The crowd began setting vehicles on fire during the riot.,riot
+Police were called to control the violent mobs destroying property.,riot
+Protestors began throwing rocks and breaking windows during the riot.,riot
+People set public buses on fire during the violent protest.,riot
+The riot caused widespread destruction across the city center.,riot
+Masked individuals attacked law enforcement during the riots.,riot
+"Several rioters broke into government buildings, causing damage.",riot
+,
+My personal information was stolen and used to open fraudulent accounts.,identity theft
+Someone used my name to apply for a credit card without my knowledge.,identity theft
+I received bills for services I never used because of identity theft.,identity theft
+A man was arrested for stealing people’s identities to commit fraud.,identity theft
+Someone opened a bank account using my stolen identity.,identity theft
+I discovered multiple unauthorized charges made in my name.,identity theft
+My identity was used to purchase expensive electronics without my consent.,identity theft
+A person applied for a loan using my personal details without my permission.,identity theft
+Unauthorized transactions were made on my bank account due to identity theft.,identity theft
+Someone used my name to secure a lease on a property without my approval.,identity theft
+,
+He was caught hiding company funds in offshore accounts.,embezzlement
+An employee was found embezzling large sums of money over several years.,embezzlement
+The accountant stole funds from the business and covered it up.,embezzlement
+Someone was arrested for embezzling money from a charitable organization.,embezzlement
+A company executive was caught siphoning funds from the corporate accounts.,embezzlement
+He created fake invoices to steal money from the company.,embezzlement
+She transferred company funds into personal accounts over several months.,embezzlement
+An employee was found diverting funds to cover personal expenses.,embezzlement
+The treasurer embezzled money from the organization's budget.,embezzlement
+A financial officer manipulated records to steal funds from investors.,embezzlement
+,
+She was arrested for running an illegal prostitution operation out of a hotel.,illegal prostitution
+A group was caught operating an underground prostitution ring.,illegal prostitution
+He was charged with managing an illegal brothel.,illegal prostitution
+Several women were rescued from an illegal prostitution setup.,illegal prostitution
+The authorities shut down an illegal sex trade operation in the city.,illegal prostitution
+Police discovered an illicit prostitution business operating under a fake massage parlor.,illegal prostitution
+She recruited women for illegal prostitution activities across multiple states.,illegal prostitution
+The operation was trafficking women for prostitution across borders.,illegal prostitution
+An online platform was used to facilitate illegal prostitution activities.,illegal prostitution
+Multiple arrests were made after an illegal prostitution sting in the city.,illegal prostitution
+,
+He violated the restraining order by contacting me online.,violation of restraining order
+Someone was arrested for approaching their ex-partner despite a restraining order.,violation of restraining order
+A person contacted their victim despite a legal restraining order.,violation of restraining order
+She was arrested for violating the court's restraining order.,violation of restraining order
+He breached the restraining order by coming near my house again.,violation of restraining order
+The individual sent threatening messages to me despite the restraining order.,violation of restraining order
+He followed me to work and harassed me in violation of the restraining order.,violation of restraining order
+A person was caught trespassing despite a restraining order against them.,violation of restraining order
+"She contacted me via phone, ignoring the restraining order.",violation of restraining order
+He approached me in public despite the ongoing restraining order.,violation of restraining order
+She harassed me while she was not allowed to do it., violation of restraining order
+,
+A man was caught drunk in public and causing a disturbance.,public drunkenness
+Someone was arrested for being intoxicated and starting a fight in the street.,public drunkenness
+He was found heavily intoxicated and yelling at passersby.,public drunkenness
+A person was arrested for public intoxication and vandalizing property.,public drunkenness
+She was found passed out on the sidewalk after drinking heavily.,public drunkenness
+An individual was arrested for disrupting public peace while intoxicated.,public drunkenness
+He was intoxicated and behaving aggressively towards strangers in the park.,public drunkenness
+Police arrested a person who was drunk and causing a disturbance in a restaurant.,public drunkenness
+A man was taken into custody for public intoxication outside a bar.,public drunkenness
+He was drunk and obstructing traffic by lying in the street.,public drunkenness
+He created nuisance in the area while being intoxicated., public drunkenness
+,
+A child was left unsupervised at home for several days by their parents.,child neglect
+Someone reported a child being left alone without food or water.,child neglect
+An infant was found in an unsafe condition due to parental neglect.,child neglect
+The authorities rescued children living in unsanitary conditions.,child neglect
+A parent left their child unattended for hours in dangerous surroundings.,child neglect
+Several children were found in an unsafe and unsupervised environment.,child neglect
+A child was left without proper care for days due to parental neglect.,child neglect
+Child protective services were called for a case of severe neglect and unsafe conditions.,child neglect
+An unsupervised toddler was found wandering outside the home.,child neglect
+The police discovered a child living in poor health and hygiene due to neglect.,child neglect
+,
+An elderly woman was scammed out of her life savings by her caretaker.,elder abuse
+Someone was arrested for physically abusing an elderly man.,elder abuse
+An elderly person was found living in poor conditions because of neglect.,elder abuse
+Authorities discovered that a caregiver was financially exploiting a senior citizen.,elder abuse
+An elderly man was left alone without care by his nurse.,elder abuse
+A caregiver was arrested for mistreating and stealing from an elderly woman.,elder abuse
+Elderly residents of a nursing home were found suffering from neglect.,elder abuse
+An individual was arrested for defrauding an elderly person under their care.,elder abuse
+Several seniors were found malnourished due to caregiver neglect.,elder abuse
+A caretaker was charged with physically and emotionally abusing an elderly patient.,elder abuse
+,
+A businessman was arrested for not paying his taxes on hidden income, tax_evasion
+He was charged with tax evasion for underreporting his earnings, tax_evasion
+Someone created fake financial records to avoid paying taxes, tax_evasion
+Authorities caught a man hiding income in offshore accounts to evade taxes, tax_evasion
+An executive was charged with using illegal methods to avoid paying taxes, tax_evasion
+A company was found to be falsely reporting their revenue to minimize taxes, tax_evasion
+Someone was caught claiming deductions for non-existent expenses, tax_evasion
+An individual was investigated for manipulating tax returns over several years, tax_evasion
+The IRS has identified numerous cases of tax evasion in the past year, tax_evasion
+People are being warned about the consequences of tax fraud this season, tax_evasion
+,
+Someone published my private information on the internet without permission, doxxing
+My home address and phone number were posted online, doxxing
+A person shared my personal information in a public forum, doxxing
+I’ve been doxxed and now my private life is exposed to strangers, doxxing
+Someone leaked my private contact details online after an argument, doxxing
+An individual was found sharing private data of several people online, doxxing
+A group was caught posting personal information of celebrities on social media, doxxing
+Someone threatened to release sensitive information if I didn't comply, doxxing
+The rise in doxxing cases has alarmed many internet users recently, doxxing
+Authorities are tracking down those responsible for recent doxxing incidents, doxxing
+,
+I was attacked by someone with a knife and I barely survived, attempted_murder
+Someone tried to strangle my friend in an alley but he survived, attempted_murder
+A person was found planning to shoot their colleague but was stopped, attempted_murder
+Someone was caught pouring poison into their spouse’s food, attempted_murder
+A man was arrested for setting fire to a house with people inside, attempted_murder
+An individual was accused of trying to kill their business partner over a dispute, attempted_murder
+A woman was charged after attempting to drown her child, attempted_murder
+Someone was apprehended while trying to run down a group of people, attempted_murder
+There have been several reported attempts on lives in the last month, attempted_murder
+Authorities are increasing patrols in areas with high attempted murder rates, attempted_murder
+
+,
+A man was seen exposing himself to people at the park, public_indecency
+Someone was found urinating on a public street, public_indecency
+There was a person caught engaging in lewd acts in a public space, public_indecency
+A couple was fined for inappropriate public behavior in a mall, public_indecency
+A person was caught streaking through a public sporting event, public_indecency
+Individuals were observed engaging in sexual acts in a car parked in public, public_indecency
+Someone was reported for taking nude photos in a public restroom, public_indecency
+A woman was arrested for performing inappropriate acts in a public venue, public_indecency
+Children witnessed an incident of public indecency during a festival, public_indecency
+Authorities are cracking down on public indecency at popular tourist spots, public_indecency
+,
+A company was involved in moving large sums of illicit money abroad, money_laundering
+They’ve been using shell companies to hide illegal profits, money_laundering
+Someone used a series of fraudulent bank accounts for transferring illegal funds, money_laundering
+The police uncovered a money-laundering operation through real estate investments, money_laundering
+They were caught funneling illegal proceeds through a charitable foundation, money_laundering
+Authorities traced money from drug sales being laundered through businesses, money_laundering
+A group was caught conducting transactions designed to conceal the origin of funds, money_laundering
+Someone was arrested for using offshore accounts to disguise illegal earnings, money_laundering
+Investigators are looking into links between businesses and money laundering schemes, money_laundering
+A high-profile case involving money laundering has shocked the community, money_laundering
+,
+Several individuals were smoking inside a public office building, public_smoking
+A man was caught smoking in a no-smoking zone at the airport, public_smoking
+Someone was fined for smoking near a children’s park, public_smoking
+People were found violating the smoking ban inside a hospital, public_smoking
+He lit a cigarette in a public transport vehicle which is prohibited, public_smoking
+Individuals were seen smoking near entrances to public buildings, public_smoking
+A group of teenagers was reported for smoking in a restricted area, public_smoking
+Someone faced consequences for smoking on a school campus, public_smoking
+Authorities are increasing awareness about public smoking laws, public_smoking
+Fines for public smoking violations have been raised this year, public_smoking
+,
+A person was found in possession of a large amount of marijuana, possession_of_illicit_substance
+A person was caught carrying cocaine while traveling, possession_of_illicit_substance
+Someone was arrested with illegal drugs hidden in their vehicle, possession_of_illicit_substance
+He was found with narcotics during a routine traffic stop, possession_of_illicit_substance
+They discovered heroin concealed in a false bottom of the suitcase, possession_of_illicit_substance
+Authorities seized a large stash of illegal substances during a raid, possession_of_illicit_substance
+An individual was caught selling drugs in a public place, possession_of_illicit_substance
+Someone was found distributing pills without a prescription, possession_of_illicit_substance
+A group of people was apprehended for using drugs at a party, possession_of_illicit_substance
+Law enforcement is increasing efforts to combat drug possession in the community, possession_of_illicit_substance
+,
+A person has been accused under the POCSO Act for assaulting a minor, pocso_offense
+A man was booked for child exploitation under POCSO provisions, pocso_offense
+A case was registered for inappropriate behavior with a minor, pocso_offense
+An individual was charged for having explicit conversations with a child online, pocso_offense
+A teacher was arrested for indecently touching a student, pocso_offense
+Someone was found sharing explicit content involving minors, pocso_offense
+Authorities are investigating reports of grooming behaviors among adults, pocso_offense
+A community is rallying to raise awareness about child safety and POCSO, pocso_offense
+There has been a significant increase in POCSO-related offenses reported this year, pocso_offense
+Parents are being advised to monitor their children's online interactions closely, pocso_offense
+,
+A person was seen driving recklessly in a crowded street almost hitting pedestrians, reckless_endangerment
+Someone fired a gun in a busy area endangering many people, reckless_endangerment
+A man was caught handling dangerous fireworks in a crowded marketplace, reckless_endangerment
+He endangered lives by speeding through a residential area, reckless_endangerment
+An individual was swinging a machete in a public park, reckless_endangerment
+A driver was arrested for swerving dangerously while under the influence, reckless_endangerment
+Someone was reported for playing loud music while driving through neighborhoods, reckless_endangerment
+A person was caught throwing objects from a moving vehicle, reckless_endangerment
+Authorities are cracking down on reckless driving behavior during holidays, reckless_endangerment
+Public awareness campaigns are being launched to educate on reckless endangerment, reckless_endangerment 
+,
+A teenager was caught attempting to steal beer from a convenience store, underage_drinking
+Someone was seen drinking alcohol at a school sporting event, underage_drinking
+A minor was found hosting a party where alcohol was served, underage_drinking
+Authorities cited several youths for underage drinking during a music festival, underage_drinking
+A young person was reported for trying to sneak alcohol into a concert venue, underage_drinking
+Several underage individuals were seen stumbling out of a nightclub, underage_drinking
+Someone was charged for providing alcohol to minors at a birthday party, underage_drinking
+A minor was caught drinking and driving leading to severe legal consequences, underage_drinking
+Police discovered a hidden stash of alcohol in a student dormitory, underage_drinking
+Local schools are organizing seminars to educate students about the risks of underage drinking, underage_drinking
+,
+Someone was observed vandalizing public property with graffiti, vandalism
+A group was caught breaking windows at a local school, vandalism
+An individual was seen damaging a public park bench, vandalism
+Authorities apprehended someone for defacing a historic monument, vandalism
+A person was charged with spray painting derogatory terms on a building, vandalism
+Several teens were reported for damaging cars in a parking lot, vandalism
+Someone was caught setting fire to a pile of garbage in a public area, vandalism
+An individual was arrested for repeatedly damaging community signs, vandalism
+People are being urged to report vandalism incidents in their neighborhoods, vandalism
+Community leaders are launching initiatives to beautify and protect local parks from vandalism, vandalism
+,
+
+A person was found driving under the influence after causing an accident, dui
+Someone was arrested for driving a vehicle with a high blood alcohol content, dui
+An individual was caught operating a vehicle while intoxicated at a checkpoint, dui
+A man was charged with DUI after being found asleep at the wheel, dui
+Authorities discovered someone driving recklessly while under the influence of drugs, dui
+Several individuals were arrested during a DUI checkpoint over the weekend, dui
+A woman was charged after causing injury while driving under the influence, dui
+Someone was apprehended for refusing to take a breathalyzer test, dui
+Community programs are being implemented to educate about the dangers of DUI, dui
+Police are increasing patrols to catch impaired drivers during holiday celebrations, dui
+,
+A person was seen throwing trash out of their car window, littering
+Someone was caught discarding a cigarette butt on the sidewalk, littering
+An individual was reported for leaving waste at a public park, littering
+Authorities issued fines to several people for littering on the beach, littering
+A group was caught dumping large items illegally in a residential area, littering
+Someone was charged for repeatedly littering in a community garden, littering
+A local campaign is being launched to raise awareness about littering consequences, littering
+Citizens are encouraged to participate in community clean-up events to combat littering, littering
+The city has increased penalties for littering to improve public cleanliness, littering
+Educational programs are being introduced in schools to teach children about litter prevention, littering
+,
+A person was seen harassing someone on the street, harassment
+Someone was reported for making unwanted advances in a public setting, harassment
+An individual was charged with stalking after repeatedly following a person, harassment
+A woman was caught sending threatening messages to another individual, harassment
+People are encouraged to report instances of workplace harassment, harassment
+A man was arrested for creating a hostile environment at a local establishment, harassment
+Several incidents of online harassment have been reported recently, harassment
+Authorities are increasing efforts to educate the public about the dangers of harassment, harassment
+Community workshops are being held to support victims of harassment, harassment
+A high-profile case of harassment has brought attention to the issue in the media, harassment
+,
+Someone was caught engaging in a physical fight at a public event, public_brawling
+A group was seen throwing punches outside a bar, public_brawling
+Individuals were arrested after a large brawl broke out during a concert, public_brawling
+A person was charged with assault for fighting in a public place, public_brawling
+Authorities responded to reports of a violent altercation at a sports game, public_brawling
+A man was injured in a public brawl between two rival groups, public_brawling
+Community leaders are organizing peace events to prevent public brawling, public_brawling
+Police are increasing their presence at events to deter public fighting, public_brawling
+Several people were charged for inciting violence during a protest, public_brawling
+Education programs are being introduced to promote conflict resolution among youths, public_brawling
+,
+Authorities apprehended an individual for shoplifting at a department store, theft
+A suspect was caught on camera stealing merchandise from a local shop, theft
+A person was arrested for attempting to rob a bank with a fake weapon, robbery
+Authorities stopped a man fleeing the scene of a convenience store robbery, robbery
+'
+,
+Someone was charged for illegal possession of a firearm during a traffic stop, illegal_firearm_possession
+An individual was found carrying a loaded gun without a permit, illegal_firearm_possession
+A person was arrested for selling firearms without a license, illegal_firearm_possession
+Authorities discovered an unregistered firearm hidden in a suspect's home, illegal_firearm_possession
+Several individuals were charged with trafficking illegal weapons, illegal_firearm_possession
+A man was caught trying to smuggle firearms across state lines, illegal_firearm_possession
+Community programs are being initiated to raise awareness about gun safety, illegal_firearm_possession
+Police are increasing patrols in areas known for illegal firearm activity, illegal_firearm_possession
+A high-profile case of gun violence has sparked discussions about firearm regulations, illegal_firearm_possession
+Local authorities are conducting checks on gun sales to prevent illegal trafficking, illegal_firearm_possession
+,
+Someone was caught using a fake registration plate on their vehicle, vehicle_registration_fraud
+A person was found driving a car with a falsified VIN number, vehicle_registration_fraud
+Authorities discovered an individual running a scheme to sell fake vehicle documents, vehicle_registration_fraud
+A man was charged for altering the identification numbers on stolen cars, vehicle_registration_fraud
+Police are investigating a case of organized vehicle theft and registration fraud, vehicle_registration_fraud
+A local garage was found producing fake vehicle registration documents, vehicle_registration_fraud
+Community leaders are urging citizens to report suspicious vehicle registration activity, vehicle_registration_fraud
+An individual was apprehended for using a stolen identity to register a vehicle, vehicle_registration_fraud
+Authorities are increasing inspections to prevent vehicle registration fraud, vehicle_registration_fraud
+,
+Someone was reported for engaging in drug trafficking activities in the neighborhood, drug_trafficking
+An individual was caught selling narcotics in a public park, drug_trafficking
+Authorities arrested a man for possession with intent to distribute illegal substances, drug_trafficking
+Several suspects were charged for operating a meth lab in a residential area, drug_trafficking
+A person was found in possession of large quantities of illegal drugs during a raid, drug_trafficking
+Police discovered a hidden stash of drugs in a suspect's home, drug_trafficking
+Community awareness campaigns are being launched to combat drug trafficking, drug_trafficking
+Authorities are increasing patrols in areas known for high drug activity, drug_trafficking
+Several individuals were arrested during a crackdown on drug distribution networks, drug_trafficking
+A high-profile case of drug trafficking has drawn attention to community safety issues, drug_trafficking
+,
+Someone was observed engaging in suspicious activity around a closed business, burglary_attempt
+An individual was reported for trying to pry open a back door of a store, burglary_attempt
+Authorities caught someone attempting to break into a house during the night, burglary_attempt
+Several people were charged for planning a burglary at a construction site, burglary_attempt
+Police responded to reports of an attempted break-in at a local bank, burglary_attempt
+A suspect was apprehended for trying to steal from a parked delivery truck, burglary_attempt
+Community vigilance programs are being established to prevent burglaries, burglary_attempt
+Authorities are conducting neighborhood watch meetings to discuss burglary prevention, burglary_attempt
+An increase in attempted burglaries has led to heightened security measures in the area, burglary_attempt
+,
+Someone was seen using a cell phone while driving, traffic_violation
+A person was caught speeding in a school zone, traffic_violation
+Authorities issued a citation to an individual for failing to stop at a red light, traffic_violation
+An individual was charged for driving without a valid license, traffic_violation
+A truck driver was fined for exceeding weight limits on the highway, traffic_violation
+Several motorists were caught driving without wearing seat belts, traffic_violation
+Police conducted a checkpoint to catch drivers violating traffic laws, traffic_violation
+Community workshops are being organized to educate drivers about traffic safety, traffic_violation
+Authorities are increasing patrols in areas with high traffic violation incidents, traffic_violation
+An individual was reported for reckless driving in a residential neighborhood, traffic_violation
+,
+My cat's scratching post is lost in the garage.,lost_item
+My favorite baseball bat is missing from the shed.,lost_item
+My important documents are missing from the drawer.,lost_item
+My favorite mug is missing from the shelf.,lost_item
+My family photos are lost in the box.,lost_item
+My wallet is lost., lost_item
+My phone was left at the restaurant.,lost_item
+I can't find my keys.,lost_item
+I can't locate my passport.,lost_item
+My backpack was left on the bus.,lost_item
+My wallet disappeared during the event.,lost_item
+I can't find my laptop.,lost_item
+My credit card is missing.,lost_item
+,
+The individual has applied for a police clearance certificate for overseas employment., police clearance certificate
+The applicant seeks a police clearance certificate for a visa application process.,police clearance certificate
+The applicant is requesting a police clearance certificate for travel and immigration purposes., police clearance certificate
+The student needs a police clearance certificate for admission into a foreign educational institution., police clearance certificate
+A police clearance certificate is requested for verifying the applicant's background in an adoption procedure., police clearance certificate
+Authorities require a police certificate from the applicant for granting citizenship., police clearance certificate
+The applicant is obtaining a pcc to participate in volunteer work in another country., police clearance certificate
+A pcc is requested to verify the individual’s background for volunteer activity overseas., police clearance certificate
+A police certificate is requested for verifying the applicant's background in an adoption procedure., police clearance certificate
+The applicant needs a police clearance as part of the child adoption process., police clearance certificate
+A pcc is needed for verification., police clearance certificate
+i want to issue mmy pcc certificate.,police clearance certificate
+,
+A child was abducted from a playground by an unknown person,kidnapping
+Someone reported seeing a person being forced into a van against their will,kidnapping
+A group kidnapped a businessman and demanded a ransom for his release,kidnapping
+A woman was abducted while walking home late at night,kidnapping
+Police rescued a kidnapped minor from a hideout after an anonymous tip,kidnapping
+A person was taken hostage by an acquaintance over a financial dispute,kidnapping
+A man was arrested for holding his ex-girlfriend against her will in his apartment,kidnapping
+An individual was lured to a remote location and kidnapped by an online acquaintance,kidnapping
+A person was kidnapped while attending a public protest and was later found in a secluded area,kidnapping
+A child was reported missing and authorities suspect abduction,kidnapping
+,
+A person rented a car and did not return it even after the due date.,rental_vehicle_not_returned
+Someone failed to return a rental bike and is avoiding calls from the rental company.,rental_vehicle_not_returned
+They kept a rented vehicle for an extra month without any payment.,rental_vehicle_not_returned
+An individual stole a rental vehicle and did not return it.,rental_vehicle_not_returned
+The customer is refusing to return a rented scooter despite repeated requests.,rental_vehicle_not_returned
