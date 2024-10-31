@@ -1,0 +1,147 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f7f2;
+  }
+  
+  label {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 1vh;
+  }
+
+  /* Container */
+  .pcc-container {
+    max-width: 1500px; /* Increased width */
+    margin: 0 auto;
+    padding: 40px; /* More padding for spaciousness */
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid black;
+  }
+  
+  /* Logo */
+
+  
+  .logo {
+    background-position: center;
+    /* transform: scale(1.5); */
+     /* Increased height for better visibility */
+  }
+  
+  /* Form Title */
+  .form-title {
+    text-align: center;
+    font-size: 28px;
+    color: #2e7d32;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+
+  
+  /* Section Titles */
+  .section-title {
+    font-size: 22px;
+    color: #2e7d32;
+    margin-bottom: 15px;
+    font-weight: bold;
+    border-bottom: 2px solid #4caf50;
+    padding-bottom: 5px;
+  }
+  
+  /* Form Inputs */
+  .text-input,
+  .textarea-input,
+  .select-input,
+  .date-input,
+  .number-input,
+  .file-input,
+  #involvedInCase {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+  
+  .text-input:focus,
+  .textarea-input:focus,
+  .select-input:focus,
+  .date-input:focus,
+  .number-input:focus,
+  .file-input:focus,
+  #involvedInCase:focus {
+    outline: none;
+    border: 2px solid #2e7d32;
+  }
+  
+  /* Textarea Input */
+  .textarea-input {
+    height: 80px;
+    resize: none;
+  }
+  
+  /* Submit Button */
+  .submit-button {
+    width: 100%;
+    background-color: #2e7d32;
+    color: white;
+    padding: 12px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-button:hover {
+    background-color: #1b5e20;
+  }
+  
+  /* Error and Success Messages */
+  .errortag {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .corrtag {
+    color: #2e7d32;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  /* Dropdown Options Styling */
+  .dropdown-options {
+    margin-bottom: 15px;
+  }
+  
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .pcc-container {
+      padding: 20px;
+    }
+  
+    .form-title {
+      font-size: 24px;
+    }
+  
+    .section-title {
+      font-size: 18px;
+    }
+  
+    .submit-button {
+      font-size: 16px;
+    }
+  }
+  

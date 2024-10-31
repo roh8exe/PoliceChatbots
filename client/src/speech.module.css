@@ -1,0 +1,192 @@
+/* Global Styles */
+
+  
+ 
+  .headerContent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .logo img {
+    height: 160px;
+  }
+  
+
+  
+  .title h3 {
+    font-family: cursive;
+  }
+  
+  /* Zoom-out animation */
+  @keyframes zoomOut {
+    0% {
+      transform: scale(10);
+      opacity: 0;
+    }
+    50% {
+      transform: scale(1.5);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+
+  .header {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+    color: white;
+    z-index: 10; /* Ensuring the header is on top */
+  }
+  
+  .animatedBg {
+    z-index: 1; /* Setting background behind content */
+  }
+  
+  .title h1 {
+    font-size: 4em;
+    letter-spacing: 3px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    font-family: cursive;
+    animation: zoomOut 2s ease forwards;
+    color: lightgreen; /* Make sure the color contrasts well with the background */
+    z-index: 15; /* Ensure heading appears on top of background */
+    position: relative; /* Ensure z-index takes effect */
+  }
+  
+  
+  /* Gradient animation */
+  @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  /* Main Block */
+  .speech {
+    margin: 9% auto;
+    width: 60vw;
+    height: 10vh;
+    border: 1px solid #000;
+    overflow-y: auto;
+    background-color: #f9f9f9;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.2);
+    /* margin-bottom: 20px; */
+  }
+  
+  .speech__transcript {
+    width: 100%;
+    font-size: 16px;
+    color: #333;
+    text-align: left;
+    padding-left: 3vw;
+    padding-top: 1vw;
+  }
+  
+  .otpt {
+    /* margin-top: 10px; */
+    /* display: block;
+     */
+     margin-top: 5px;
+    /* background-color: rgb(219, 222, 215); */
+    /* border: 2px solid black; */
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.2);
+    height: 6vh;
+    width: 60%;
+    margin: auto;
+    /* justify-content: ;di */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .solution {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+  }
+  
+  .first {
+    width: 30%;
+    text-align: left;
+    padding: 1vw;
+    height: 60vh;
+    background-color: beige;
+    /* border-radius: 1vh; */
+    font-weight: bolder;
+    border-radius: 3vh;
+    border: 1px solid black;
+    overflow: scroll;
+  }
+  
+  .speech__button {
+    /* margin: 10px 5px; */
+    margin-bottom: 10px;
+    padding: 5px 5px;
+    font-size: 14px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    width: 10vw;
+    margin: 5px;
+    font-family: cursive;
+  }
+  
+  .speech__button:hover {
+    background-color: #233024;
+    transform: scale(1.1);
+  }
+  .vvi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .dropbox{
+    width: 9vw;
+    height: 3vh;
+    margin-top: 2vh;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+  }
+
+  .footer {
+    margin-top: 40px;
+    padding: 10px;
+    text-align: center;
+    background-color: #2f7d32;
+    color: white;
+  }
+  
+  .buttonsContainer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    /* justify-content: space-evenly; */
+  }

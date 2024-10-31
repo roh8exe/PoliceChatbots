@@ -1,0 +1,62 @@
+/* Container Styles */
+.container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid #2e7d32;
+    border-radius: 10px;
+    width: 300px;
+    margin: 50px auto;
+  }
+  
+  .inputField {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #2e7d32;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .updateButton {
+    background-color: #2e7d32;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+  }
+  
+  .updateButton:hover {
+    background-color: #1b5e20;
+  }
+  
+  .statusDisplay {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #2e7d32;
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #2e7d32;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  

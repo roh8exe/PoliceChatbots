@@ -1,0 +1,52 @@
+.pcc-container {
+    font-family: 'Roboto', sans-serif;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.pcc-header {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.pcc-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+.pcc-button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    background-color: #007BFF;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pcc-button:hover {
+    background-color: #0056b3;
+}
+
+.pcc-status {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+.pcc-error {
+    color: red;
+}
